@@ -1,6 +1,6 @@
 {
-    "name": "stockmate",
-    "short_name": "stockmate",
+    "name": "stockkeeper",
+    "short_name": "stockkeeper",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
