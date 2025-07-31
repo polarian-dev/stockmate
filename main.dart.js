@@ -93280,7 +93280,7 @@ return A.q($async$A_,r)},
 G(a){var s,r,q,p,o,n,m,l=null,k=A.b([B.dW,B.jI],t.t_),j=A.dT(60),i=A.b([new A.bv(0,B.X,A.at(B.d.aB(25.5),B.n.A()>>>16&255,B.n.A()>>>8&255,B.n.A()&255),new A.j(0,5),10)],t.F)
 i=A.cS(l,A.bL(B.kU,B.co,l,60),B.u,l,l,new A.cu(B.j,l,l,j,i,l,B.af),l,120,l,l,l,l,120)
 j=A.aN(l,32,l)
-s=A.A("Stockmate Inventory",l,l,l,A.aO(l,l,B.j,l,l,l,l,l,l,l,l,32,l,l,B.B,l,l,!0,l,l,l,l,l,l,l,l),l,l,l)
+s=A.A("Stockkeeper",l,l,l,A.aO(l,l,B.j,l,l,l,l,l,l,l,l,32,l,l,B.B,l,l,!0,l,l,l,l,l,l,l,l),l,l,l)
 r=A.aN(l,8,l)
 q=A.A("Stock Management System",l,l,l,A.aO(l,l,A.at(204,B.j.A()>>>16&255,B.j.A()>>>8&255,B.j.A()&255),l,l,l,l,l,l,l,l,16,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l,l)
 p=A.aN(l,64,l)
@@ -94591,7 +94591,7 @@ return A.q($async$yA,r)},
 G(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.iU(k,!1,B.XW),i=A.dT(60)
 i=A.cS(k,A.bL(B.pc,B.co,k,60),B.u,k,k,new A.cu(B.o6,k,k,i,k,k,B.af),k,120,k,k,k,k,120)
 s=A.P(a).ok.e
-s=A.A("Welcome to Stockmate Inventory!",k,k,k,s==null?k:s.IB(B.B),B.ez,k,k)
+s=A.A("Welcome to Stockkeeper!",k,k,k,s==null?k:s.IB(B.B),B.ez,k,k)
 r=A.P(a).ok.y
 r=A.A("Please set up your profile to continue",k,k,k,r==null?k:r.bo(B.bN),B.ez,k,k)
 q=A.dT(12)
